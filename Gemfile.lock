@@ -1,0 +1,12 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    ffi (1.9.3)
+    zbar (0.2.2)
+      ffi (>= 1.0.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  zbar
